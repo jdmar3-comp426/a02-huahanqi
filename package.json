@@ -11,7 +11,7 @@
     "url": "git+https://github.com/jdmar3-comp426/a02-huahanqi.git"
   },
   "author": "Hanqi Hua",
-  "license": "ISC",
+  "license": "ISC, GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-huahanqi/issues"
   },
